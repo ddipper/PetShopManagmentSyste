@@ -219,7 +219,7 @@
             this.btnUser.DisabledState.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(141)))), ((int)(((byte)(141)))), ((int)(((byte)(141)))));
             this.btnUser.Dock = System.Windows.Forms.DockStyle.Top;
             this.btnUser.FillColor = System.Drawing.Color.Transparent;
-            this.btnUser.Font = new System.Drawing.Font("Century Gothic", 12.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(204)));
+            this.btnUser.Font = new System.Drawing.Font("Century Gothic", 12.75F);
             this.btnUser.ForeColor = System.Drawing.Color.Gray;
             this.btnUser.HoverState.BorderColor = System.Drawing.Color.FromArgb(((int)(((byte)(86)))), ((int)(((byte)(3)))), ((int)(((byte)(252)))));
             this.btnUser.HoverState.FillColor = System.Drawing.Color.FromArgb(((int)(((byte)(86)))), ((int)(((byte)(3)))), ((int)(((byte)(252)))));
@@ -360,9 +360,9 @@
             this.exitButton.Font = new System.Drawing.Font("Segoe UI", 9F);
             this.exitButton.ForeColor = System.Drawing.Color.White;
             this.exitButton.Image = ((System.Drawing.Image)(resources.GetObject("exitButton.Image")));
-            this.exitButton.Location = new System.Drawing.Point(1170, 0);
+            this.exitButton.Location = new System.Drawing.Point(1160, 0);
             this.exitButton.Name = "exitButton";
-            this.exitButton.Size = new System.Drawing.Size(24, 24);
+            this.exitButton.Size = new System.Drawing.Size(34, 37);
             this.exitButton.TabIndex = 0;
             this.exitButton.Click += new System.EventHandler(this.exitButton_Click);
             // 

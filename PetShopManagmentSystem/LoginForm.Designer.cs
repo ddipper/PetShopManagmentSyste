@@ -129,9 +129,9 @@
             this.exitButton.Font = new System.Drawing.Font("Segoe UI", 9F);
             this.exitButton.ForeColor = System.Drawing.Color.White;
             this.exitButton.Image = ((System.Drawing.Image)(resources.GetObject("exitButton.Image")));
-            this.exitButton.Location = new System.Drawing.Point(776, 0);
+            this.exitButton.Location = new System.Drawing.Point(764, 0);
             this.exitButton.Name = "exitButton";
-            this.exitButton.Size = new System.Drawing.Size(24, 24);
+            this.exitButton.Size = new System.Drawing.Size(36, 40);
             this.exitButton.TabIndex = 16;
             this.exitButton.Click += new System.EventHandler(this.exitButton_Click);
             // 
